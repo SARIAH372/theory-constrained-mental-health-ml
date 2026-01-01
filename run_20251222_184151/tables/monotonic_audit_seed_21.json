@@ -1,0 +1,182 @@
+[
+  {
+    "feature": "phq1_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq2_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq3_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq4_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq5_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq6_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq7_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq8_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "phq9_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "gad1_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "gad2_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "gad3_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "gad4_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "gad5_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "gad6_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "gad7_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl1_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl2_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl3_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl4_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl5_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl6_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl7_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl8_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl9_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl10_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl11_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl12_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl13_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl14_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl15_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl16_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl17_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl18_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl19_rep",
+    "violations": 0,
+    "steps": 24
+  },
+  {
+    "feature": "pcl20_rep",
+    "violations": 0,
+    "steps": 24
+  }
+]

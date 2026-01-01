@@ -1,0 +1,37 @@
+{
+  "run_id": "run_20251222_184151",
+  "timestamp": "2025-12-22T18:41:51",
+  "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "base_dir": "C:\\Users\\Tuhin\\PycharmProjects\\PythonProject",
+  "data_path": "C:\\Users\\Tuhin\\PycharmProjects\\PythonProject\\mh_10m_sample_1m.parquet",
+  "data_fingerprint": {
+    "path": "C:\\Users\\Tuhin\\PycharmProjects\\PythonProject\\mh_10m_sample_1m.parquet",
+    "size_bytes": 113040861,
+    "mtime": 1765824378.006078,
+    "sha256_first1mb": "32c064b9cc69ddfc459911648ae0d1d6379ac9dca23eb96c6e28b62a908015af"
+  },
+  "settings": {
+    "N_TRAIN": 80000,
+    "N_VAL": 20000,
+    "N_TEST": 50000,
+    "SEEDS": [
+      7,
+      21,
+      42
+    ],
+    "XGB_PARAMS": {
+      "tree_method": "hist",
+      "max_depth": 3,
+      "learning_rate": 0.07,
+      "subsample": 0.8,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 1.0,
+      "n_estimators": 600,
+      "random_state": 0
+    },
+    "MONO_SWEEP_STEPS": 25,
+    "PERM_IMPORTANCE_SAMPLE_N": 5000,
+    "PERM_IMPORTANCE_REPEATS": 2
+  }
+}

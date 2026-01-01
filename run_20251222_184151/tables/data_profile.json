@@ -1,0 +1,96 @@
+{
+  "loaded_shape": [
+    1000000,
+    52
+  ],
+  "load_seconds": 0.64,
+  "na_rate_required": {
+    "phq1_rep": 0.0,
+    "phq2_rep": 0.0,
+    "phq3_rep": 0.0,
+    "phq4_rep": 0.0,
+    "phq5_rep": 0.0,
+    "phq6_rep": 0.0,
+    "phq7_rep": 0.0,
+    "phq8_rep": 0.0,
+    "phq9_rep": 0.0,
+    "gad1_rep": 0.0,
+    "gad2_rep": 0.0,
+    "gad3_rep": 0.0,
+    "gad4_rep": 0.0,
+    "gad5_rep": 0.0,
+    "gad6_rep": 0.0,
+    "gad7_rep": 0.0,
+    "pcl1_rep": 0.0,
+    "pcl2_rep": 0.0,
+    "pcl3_rep": 0.0,
+    "pcl4_rep": 0.0,
+    "pcl5_rep": 0.0,
+    "pcl6_rep": 0.0,
+    "pcl7_rep": 0.0,
+    "pcl8_rep": 0.0,
+    "pcl9_rep": 0.0,
+    "pcl10_rep": 0.0,
+    "pcl11_rep": 0.0,
+    "pcl12_rep": 0.0,
+    "pcl13_rep": 0.0,
+    "pcl14_rep": 0.0,
+    "pcl15_rep": 0.0,
+    "pcl16_rep": 0.0,
+    "pcl17_rep": 0.0,
+    "pcl18_rep": 0.0,
+    "pcl19_rep": 0.0,
+    "pcl20_rep": 0.0,
+    "phq9_total_rep": 0.0,
+    "gad7_total_rep": 0.0,
+    "pcl5_total_rep": 0.0
+  },
+  "totals_summary": {
+    "phq9_total_rep": {
+      "count": 1000000.0,
+      "mean": 18.319159,
+      "std": 7.800270596392178,
+      "min": 0.0,
+      "25%": 14.0,
+      "50%": 21.0,
+      "75%": 24.0,
+      "max": 27.0
+    },
+    "gad7_total_rep": {
+      "count": 1000000.0,
+      "mean": 13.623243,
+      "std": 6.304391715963239,
+      "min": 0.0,
+      "25%": 9.0,
+      "50%": 15.0,
+      "75%": 18.0,
+      "max": 21.0
+    },
+    "pcl5_total_rep": {
+      "count": 1000000.0,
+      "mean": 51.197086,
+      "std": 19.49823446596515,
+      "min": 0.0,
+      "25%": 41.0,
+      "50%": 58.0,
+      "75%": 66.0,
+      "max": 80.0
+    }
+  },
+  "optional_theta_cols_present": [
+    "theta_dep_true",
+    "theta_anx_true",
+    "theta_ptsd_true",
+    "p_factor",
+    "d_factor",
+    "a_factor",
+    "t_factor"
+  ],
+  "optional_group_cols_present": [
+    "gender",
+    "ses",
+    "urban",
+    "ethnicity",
+    "education"
+  ]
+}
